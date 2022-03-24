@@ -1,0 +1,9 @@
+.hidden {
+  display: none;
+}
+
+img {
+  width: 30%;
+  min-width: 200px;
+  float: left;
+}
